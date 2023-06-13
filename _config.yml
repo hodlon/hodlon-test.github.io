@@ -4,7 +4,7 @@ email: hodlon@hodlon.com
 url: https://hodlon.art
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Lots and lots of hats"
+skills: "move fast stay comfy"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -40,15 +40,13 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
+    url: http://twitter.com/xHodlon
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: http://stackoverflow.com/questions/tagged/
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://bitbucket.org/
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/hodlon
 
 # Postal address (add as many lines as necessary)
 address:
