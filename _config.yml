@@ -34,24 +34,22 @@ color:
 footer:
   copyright: Dr. Henry Jekyll
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: Connect
+  credits: Site Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: Telegram
+    url: http://t.me/hodlon
   - title: twitter
     url: http://twitter.com/xHodlon
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/
-  - title: bitbucket
-    url: http://bitbucket.org/
   - title: github
     url: http://github.com/hodlon
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: North America
+  - line: Fully Remote
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
